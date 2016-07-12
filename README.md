@@ -1,4 +1,4 @@
-Urgh timezone math.
+Urgh timezone maths.
 
 I find this one less distracting:
 ![](https://raw.githubusercontent.com/lukehefson/london-sf-timezone-wallpaper/master/london-sf.png)
